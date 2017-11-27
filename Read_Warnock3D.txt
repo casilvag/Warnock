@@ -1,0 +1,43 @@
+
+Intro:
+
+Trabajo entrega final motivado por el curso Computación Visual de la Universidad Nacional de Colombia
+dirigido por el docente Jean Pierre Charalambos, en práctica de lo aprendido a lo largo del semestre
+en Processing y la versatilidad de la librería proscene.
+
+------------------------------------------------------------------------------------------------------
+Tema: Experimento de implementación Algoritmo Warnock en 3D en problemas de visualización.
+
+SubTemas:
+- Proyección.
+- Toma de imágenes por escenas usando librería proscene.
+- Manejo de propiedad rgb en pixeles de imagen.
+------------------------------------------------------------------------------------------------------
+Presentado Por: 
+
+Cesar Silva
+Miguel Cortez
+
+Estudiantes Ing. de Sistemas y Computación
+------------------------------------------------------------------------------------------------------
+Fecha: 27-11-2017
+------------------------------------------------------------------------------------------------------
+
+Controles 
+
+Manejo de vista usando ratón.
+Tecla espacio ' ' para recrear interacciones de algoritmo.
+Tecla 't' y 'T', para aparecer o desaparecer figuras en campo de experimento.(Cubo)
+
+
+------------------------------------------------------------------------------------------------------
++Planos dibujados para mejor percepción de ubicación espacial.
++Minimapa de reconocimiento de imagen para algoritmo.
++Código de pocas referencias en línea.
++Código parametrizable en número máximo de triangulos aleatorios y número de iteraciónes en algoritmo.
++Código comentado
+
+-Alto requerimiento de memoria.
+-Coloreado en proceso de mejoras.
+-Inposibilidad de correr algoritmo warnock en tres planos simultaneamente por poco recurso tecnológico
+------------------------------------------------------------------------------------------------------
