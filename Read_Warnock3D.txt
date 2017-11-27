@@ -41,3 +41,10 @@ Tecla 't' y 'T', para aparecer o desaparecer figuras en campo de experimento.(Cu
 -Coloreado en proceso de mejoras.
 -Inposibilidad de correr algoritmo warnock en tres planos simultaneamente por poco recurso tecnológico
 ------------------------------------------------------------------------------------------------------
+
+Para mas info están bienvenidos a la página web: casilvag.github.io 
+Existe un apartado donde hablamos sobre nuestro acercamiento al algoritmo de Warnock para problemas de 
+visibilidad.
+------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
+
