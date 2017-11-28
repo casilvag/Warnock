@@ -25,10 +25,10 @@ Fecha: 27-11-2017
 
 Controles 
 
-Manejo de vista usando ratón.
-Tecla espacio ' ' para recrear interacciones de algoritmo.
-Tecla 't' y 'T', para aparecer o desaparecer figuras en campo de experimento.(Cubo)
-
+1. Manejo de vista usando ratón.
+2. Tecla espacio ' ' para recrear interacciones de algoritmo.
+3. Tecla 't' y 'T', para aparecer o desaparecer figuras en campo de experimento.(Cubo)
+4. Tecla '5' para dibujar o no grilla de warnock.
 
 ------------------------------------------------------------------------------------------------------
 +Planos dibujados para mejor percepción de ubicación espacial.
@@ -47,4 +47,11 @@ Existe un apartado donde hablamos sobre nuestro acercamiento al algoritmo de War
 visibilidad.
 ------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------
+
+Esperamos éste proyecto logre ser de ayuda en sus vida académica. Gracias.
+
+
+
+
+
 
